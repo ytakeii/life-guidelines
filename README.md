@@ -10,7 +10,7 @@
 - [Daily Practices](./daily-practices.md) - 日々の実践
 
 ### 分析・振り返り
-- [Self Analysis](./analysis/) - 自己分析と強み・弱み
+- [Self Analysis](./self-analysis/) - 自己分析と強み・弱み
 - [Goals](./goals/) - 目標設定と進捗管理
 - [Reflections](./reflections/) - 定期的な振り返り
 
